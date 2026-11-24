@@ -24,7 +24,6 @@ int main()
 
     while (true)
     {
-
         cout << "\nEnter your choice: ";
         if (!(cin >> choice))
         {
